@@ -6,7 +6,7 @@ const Body = (props) => {
     <h2 className='name'>{props.name}</h2>
     <div className='types'>
         <span>{props.types.type1}</span>
-        <span>{props.types.type2}</span>
+        {props.types.type2 !== "" && <span>{props.types.type2}</span>}
     </div>
     <div className='stats'>
         <div>

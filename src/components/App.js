@@ -59,7 +59,7 @@ function App() {
         name: data.name,
         types: {
           type1: data.types[0].type.name,
-          type2: data.types[1] ? data.types[1].type.name : "None"
+          type2: data.types[1] ? data.types[1].type.name : ""
         },
         stats: {
           attack: data.stats[1].base_stat,
