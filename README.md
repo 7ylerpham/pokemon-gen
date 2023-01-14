@@ -1,3 +1,12 @@
+# Pokemon Card Generator
+- Fetch data from pokeAPI to generate a random card
+- Uses react state and props to manage components
+- Dynamic styling and conditional rendering
+
+<img src="./demo/demo1.png" width=500/>
+<img src="./demo/demo2.png" width=500/>
+<img src="./demo/demo3.png" width=500/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
