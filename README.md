@@ -1,7 +1,7 @@
 # Pokemon Card Generator
-- Fetch data from pokeAPI to generate a random card
+- Fetch data from pokeAPI.co to generate a random card
 - Uses react state and props to manage components
-- Dynamic styling and conditional rendering
+- Dynamic styling and conditional rendering based on pokemon type
 
 <img src="./demo/demo1.png" width=500/>
 <img src="./demo/demo2.png" width=500/>
